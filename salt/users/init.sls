@@ -1,7 +1,7 @@
-users_calcbrain_user:
+users_admin_user:
   user.present:
-    - name: calcbrain
-    - home: /home/calcbrain
+    - name: admin
+    - home: /home/admin
     - shell: /bin/bash
     - groups:
       - sudo
