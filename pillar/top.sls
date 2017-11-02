@@ -1,3 +1,3 @@
 base:
   '*':
-    - mysql
+    - users.admins
